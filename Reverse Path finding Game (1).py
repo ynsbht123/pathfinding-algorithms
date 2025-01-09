@@ -9,7 +9,7 @@ import random
 pygame.init()
 
 # Constants
-WIDTH, HEIGHT = 1000, 1000
+WIDTH, HEIGHT = 700, 700
 ROWS, COLS = 20, 20
 TILE_SIZE = WIDTH // COLS
 WHITE = (255, 255, 255)
